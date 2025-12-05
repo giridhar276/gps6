@@ -1,0 +1,210 @@
+
+
+C programming - datatypes 
+---------------------------
+int a = 10;
+float b = 45.43;
+char
+double
+long
+short 
+
+
+Everything in python is object 
+Every object contains methods 
+
+
+python - objects 
+-----------------
+
+number 
+string 
+list 
+tuple
+dictionary 
+set 
+
+number
+------
+number can integer or decimal or octal or hexa.
+
+val = 10
+aval = 34.3
+
+string 
+-------
+string is defined in single or double or triple quotes.
+
+aname = 'python programming'
+bname = "java programming"
+cname = """unix progrmming"""
+
+
+list ( array in C)
+-----
+list contains set of elements.
+Elements can be numbers or strings or any combination.
+list is defined in [].
+
+alist = [10,20,30,40]
+blist = ["python","java","oracle"]
+clist = [30,40,56.4,"java"]
+dlist = [[10,20],[30,40]]
+
+
+tuple  ( immutable unchangeable uneditable )
+------
+tuple contains set of elements.
+Elements can be numbers or strings or any combination.
+tuple  is defined in ().
+*** elements inside tuple cannot be modified directly ****
+
+atup = (30,40,50)
+btup = ("java","unix")
+
+# list of lists
+empdb = [["rita",'1-1-1','F'],['sita','2-2-2','F']]
+
+# list of tuples
+empdb = [("rita",'1-1-1','F'),('sita','2-2-2','F')]
+
+
+
+dictionary ( json  hash  hashmap  pairs  items  associativearray  )
+----------------
+dictionary contains keys and values.
+keys are unique 
+key can be either number or string to identify the value.
+value can be number or string or list or tuple or dictionary or any other complex data structure.
+
+syntax: object = { key:value , key:value , key:value }
+example:  book = {"chap1":10 , "chap2":20 ,"chap3":30 }
+          data = {1:2,3:4,5:6}
+          book = {"chap1":["rita","US",100], "chap2":["gita","UK",200] }
+
+
+   index 
+   ------
+   chap1  10
+   chap2  20
+   chap3  30 
+   chap4  40
+   chap5  40
+
+
+set ( venn diagrams in schooling)
+-----
+set is UNORDERED collection of UNIQUE elements of SAME type.
+
+
+aset = {10,10,10,20,30,30,30}
+
+
+level1 
+level1
+level1
+level1 
+if cond:
+    level2
+    level2
+    level2
+level1
+level1
+
+
+
+requirement/task =   core programming     + good understanding about libraries + domain expertise
+                    ( procedural or oop)
+
+
+functions | definition | block | subroutine | submodule 
+----------------------------------------------------
+
+builtin functions 
+user defined functions 
+
+
+
+builtin functions 
+------------------
+print()
+range()
+len()
+
+
+How to display all the list of builtin functions ?
+-----------------------------
+print(dir(__builtins__))
+
+
+uer defined functions 
+----------------------
+
+
+C style 
+-------
+int add(int a , int b)
+{
+    int c = a + b;
+    return c;
+}
+
+total = add(10,20);
+
+
+python 
+-------
+def add(a,b):
+    c = a +b 
+    return c
+
+total = add(10,20)
+
+
+different ways of passing arguments 
+---------------
+fixed arguments 
+default arguments
+keyword arguments 
+variable length arguments 
+
+
+
+library | package | module 
+---------------------------
+- set of predefined functions 
+
+There are 2 types of libraries 
+
+
+- builtin libraries 
+-------------------
+All the builtin libraries that are generally used are installed with python.
+- 3000+ libraries are installed 
+
+
+- third party libraries 
+---------------------
+Depending on our requirement developer has to install the third party library.
+
+- cloud automation
+- web development 
+- analytics
+- web scraping 
+- test autmatoin 
+- gui tools development
+- automation ( system, server , network , web )
+- Machine learning 
+- Deep learning 
+- Gen AI 
+
+
+there are 2 ways of installing any library 
+
+
+1. installing the library using pip tool ( everything is taken care by pip)
+
+
+2. installing by downloading manually
+
+
