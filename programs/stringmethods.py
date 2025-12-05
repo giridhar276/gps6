@@ -18,3 +18,4 @@ print(name.islower())
 print(name.replace("python","java"))
 print(name.find("abc")) # if substring is not found.. it returns -1
 print(name.find("hon")) # if substring is found... it returns the starting index of substring
+name.

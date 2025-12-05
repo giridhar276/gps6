@@ -1,7 +1,6 @@
 for val in range(1,10):
     print(val)
 
-
 for val in range(10,0,-1):
     print(val)
 

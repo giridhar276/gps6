@@ -7,7 +7,7 @@ alist.insert(1,100)
 print("After inserting:",alist)
 alist.pop(0)  # list.pop(index) : value at index will be removed
 print("After pop operation :",alist)
-alist.remove(100) # 100 is the element in the list
+alist.remove(100000) # 100 is the element in the list
 print("after removing :",alist)
 
 if 1000 in alist:
