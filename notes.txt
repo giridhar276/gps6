@@ -108,6 +108,7 @@ if cond:
     level2
     level2
     level2
+
 level1
 level1
 
@@ -208,3 +209,79 @@ there are 2 ways of installing any library
 2. installing by downloading manually
 
 
+
+If you want to install the libraries all at once 
+-----------------------------------
+
+requirements.txt 
+------------------
+pandas
+numpy
+scipy
+psutil
+matplotlib
+
+
+analytics space 
+-------------------
+
+
+     R programming      
+       SAS
+2000 ------------------2010------------------2020 --------------2025        
+      automations             pandasV1              Gen AI
+      web dev                 ML 
+      testing                 DL 
+      scraping
+      GUI tools
+      numpy 
+
+langchain,langgraph,llamaindex,openai ( llms )
+ |
+keras,pytorch,tensorflow ( deep learning - image processing , text processing )
+( transformer architecture )
+ |
+sklearn,statsmodel (  ML libraries )
+ |
+matplotlib , seaborn,plotly
+ |
+pandas ( highlevel library for data processing)
+ |
+scipy
+ |
+numpy (numerical python)
+ |
+python 
+
+
+
+pandas - data processing | data wrangling | data processing | data cleaning 
+------------------------------------------------------------
+
+pandas - reading options
+csv 
+xlsx
+json 
+xml 
+web 
+html 
+hdf 
+parquet
+sas 
+database 
+
+
+pandas - data structures 
+--------------------------
+series ( 1 - D)
+dataframe  ( 2 - D)
+panel  ( collection of dataframes )
+
+
+python - extensions 
+-------------------
+hello.py   ( python file)
+- whole code at once 
+
+hello.ipynb ( notebooks)( interactive python notebook)
+- line by line extesion
