@@ -1,0 +1,16 @@
+
+
+cheatsheets:
+https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+
+
+
+
+
+
+https://www.krayonnz.com/user/doubts/detail/6220d7462c73a3005764eb53/explain-the-intuition-behind-Logistic-Regression-in-detail
+
+
+https://medium.com/@nikethnarasimhan/logistic-regression-an-intuitive-approach-b1ece5b13c
+
+https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/
