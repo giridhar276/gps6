@@ -1,0 +1,17 @@
+
+
+execution mcp 
+----------------
+
+approach1:  execute main.py( server)
+                   mcp inspector ( client)
+
+
+approach2:   server.py 
+             client.py
+
+
+
+
+approach3 :    server.py ( your customized server - server with your own set of tools )
+               client.py 
